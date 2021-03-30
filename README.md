@@ -1,4 +1,4 @@
-<h2>Calculating π using a molecular simulation with Maxwell–Boltzmann distribution</h2>
+<h2>Calculating π using a molecular cloud simulation with Maxwell–Boltzmann distribution</h2>
 <h3>Brief description</h3>
 <p>
 This program calculates π using distribution of velocity of gas molecules (<a target="_blank" href="https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution">Maxwell–Boltzmann distribution</a>).<br> 
